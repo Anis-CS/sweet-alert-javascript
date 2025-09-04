@@ -1,4 +1,4 @@
-<!-- SweetAlert2 -->
+<!-- SweetAlert2  master file a dile all field a thakbe-->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     
     @yield('script')
